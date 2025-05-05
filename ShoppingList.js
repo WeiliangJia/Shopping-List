@@ -1,7 +1,6 @@
 
-//数据与变量
-let shopping_list = ["milk", "egg", "bread","avo","avo"]
-let items = ["apple", "avo", "lemon", "lime"]
+
+
 
 // 数组应用
 function add_two_items(shopping_list, items){
@@ -15,7 +14,7 @@ function remove_last_items(shopping_list){
     console.log(shopping_list)
 }
 
-//条件与循环
+//条件与循环11111
 function full_shopping_list(shopping_list){
     if(shopping_list.length > 5){
         console.log("你的购物车满了")
